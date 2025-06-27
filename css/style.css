@@ -44,6 +44,10 @@ body {
 	font-family: Roboto-Bold, sans-serif;
 }
 
+.wrapper__text {
+  margin-bottom: 30rem;
+}
+
 .wrapper__text ol {
 	display: flex;
 	flex-direction: column;
