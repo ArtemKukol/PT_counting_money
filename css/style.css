@@ -109,4 +109,7 @@ td {
 	.number {
 		width: 100px;
 	}
+  .wrapper__text ol {
+		margin-left: 0rem;
+	}
 }
